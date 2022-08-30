@@ -1,3 +1,12 @@
+### Hello World
+- The Hello World example uses clusterApiUrl to established connection.
+- Logic is straight forward and only handles one transaction at a time.
+
+### Break Solana Game
+- The Break Solana Game uses function useConnection that calls the connectionContext to established connection.
+- Logic is dynamic that can handle multiple transaction at a time.
+- It has multiple error validation. 
+
 ## Break Solana Game [![Build Status](https://github.com/solana-labs/break/actions/workflows/break_action.yml/badge.svg?branch=main)](https://github.com/solana-labs/break/actions/workflows/break_action.yml/badge.svg?branch=main)
 
 ### How it works
